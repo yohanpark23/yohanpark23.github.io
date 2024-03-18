@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Research Fellow in the Department of Political Science at Trinity College Dublin. I received my Ph.D. in Political Science at Texas A&M University.
+Welcome! I am a Research Fellow in the Department of Political Science at Trinity College Dublin. I received my Ph.D. in Political Science at Texas A&M University.
 
 My research focuses on the study of conflict processes and political economy, with a particular interest in the use of machine learning and statistical methods to analyze these topics.
 
