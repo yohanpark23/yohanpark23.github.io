@@ -221,6 +221,7 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: true
@@ -230,6 +231,7 @@ defaults:
   - scope:
       path: ""
       type: pages
+      #classes: wide
     values:
       layout: single
       classes: wide
