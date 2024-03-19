@@ -71,7 +71,7 @@
 
 .author__avatar {
   display: table-cell;
-  vertical-align: middle; // top
+  vertical-align: bottom; // top
   width: 36px;
   // set width only, for non-square avatars
   // height: 36px;
@@ -84,7 +84,7 @@
 
   img {
     max-width: 200px;
-    border-radius: 20%;  //50%
+    border-radius: 5%;  //50%
 
     @include breakpoint($large) {
       padding: 0px;  //5
@@ -95,7 +95,7 @@
 
 .author__content {
   display: table-cell;
-  vertical-align: top;
+  vertical-align: middle;
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
@@ -133,7 +133,7 @@
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
-  vertical-align: middle;
+  vertical-align: bottom;
   font-family: $sans-serif;
   z-index: 10;
   position: relative;
