@@ -7,7 +7,7 @@ author_profile: true
 <br />
 
 
-A copy of my CV can be found [HERE.](/files/Park_CV_Jan2024_WEB.pdf) <br />
+A copy of my CV can be found [HERE.](/files/Park_CV_Jan2024_WEB.pdf){:target="_blank"} <br />
 (last updated: January 2024) <br />
 
 <br />
