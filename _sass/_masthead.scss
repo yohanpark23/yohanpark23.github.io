@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .masthead {
-  position: sticky; //fixed
+  position: sticky; //fixed or relative
   background: white;
   border-bottom: 1px solid $border-color;
   height: $masthead-height;
@@ -52,7 +52,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 10em;
     font-weight: 700;
   }
 }
