@@ -17,3 +17,5 @@ My dissertation project involves exploring the effects of domestic audiences on 
 In other works, I examine the political and economic drivers of conflict, and their consequences. I analyze how multinational corporations make investment choices in response to interstate conflicts, both political and trade-related. Additionally, I explore the connection between migrants’ remittances and incidents of domestic terrorism.
 
 I am also interested in examining the impact of international institutions on building domestic peace and advancing human rights. My research explores how rebel groups react to international interventions, and whether they commit to international law.
+
+I can be reached by email at yohan.park@tcd.ie.
