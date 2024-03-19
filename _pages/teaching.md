@@ -1,5 +1,5 @@
 ---
-title: "teaching"
+title: "Teaching"
 permalink: /teaching/
 classes: wide
 author_profile: true
