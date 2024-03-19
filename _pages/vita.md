@@ -1,6 +1,7 @@
 ---
 title: "Curriculum Vitae"
 permalink: /vita/
+layout: single
 classes: wide
 author_profile: true
 ---
