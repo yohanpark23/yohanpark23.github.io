@@ -25,5 +25,5 @@ author_profile: true
 1. Multinational Firms and the Impact of Trade Disputes on Investment Decisions. (with [Erica Owen](https://sites.google.com/view/erica-owen){:target="_blank"} and [Yoo Sun Jung](https://www.yoosunjung.com){:target="_blank"} )
 2. Saving Lives: Variety of international efforts to reduce militant violence. (with Hyeran Jo and Lisa Hultman)
 3. Intended and Unintended Consequences of International Interventions: Patterns of Militant Violence in the Democratic Republic of Congo. (with Hyeran Jo, Niels Appeldorn, and Yewon Kwon)
-4. Optimizing Thresholds in Machine Learning for Improved Regression Analysis. (with Jong Woo Jeong)
-5. A Doubly Robust Difference-in-Differences Estimator for Causal Inference with Time-Series Cross-Sectional Data. (with Thomas Chadefaux)
+4. Optimizing Thresholds in Machine Learning for Improved Regression Analysis. (with [Jong Woo Jeong](https://www.jongwoojeong.com){:target="_blank"})
+5. A Doubly Robust Difference-in-Differences Estimator for Causal Inference with Time-Series Cross-Sectional Data. (with [Thomas Chadefaux](https://chadefaux.github.io){:target="_blank"})
