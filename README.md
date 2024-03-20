@@ -1,7 +1,14 @@
+# Welcome!
+
+This repo is to hold the files for my professional website [yohanpark.net](https://yohanpark.net). 
+The website is powered by Jekyll & AcademicPages, a fork of [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/). The GitHub page was derived from [Academic Pages](https://github.com/academicpages/academicpages.github.io). Below are the instructions provided by Academic Pages.
+
+
 
 # Academic Pages
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+
 
 Academic Pages is a Github Pages template for academic websites.
 
@@ -9,7 +16,7 @@ Academic Pages is a Github Pages template for academic websites.
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
+1. Go to [this repository](https://github.com/academicpages/academicpages.github.io) and click the "Use this template" button in the top right.
 1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and add your content.
 1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
