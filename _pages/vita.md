@@ -14,5 +14,6 @@ A copy of my CV can be found [HERE.](/files/Park_CV_Mar2024_WEB.pdf){:target="_b
 
 <br />
 
-
- <embed src="https://yohanpark23.github.io/files/Park_CV_Mar2024_WEB.pdf" type="application/pdf" width="1200px" height="700px" />
+{% include base_path %}
+<iframe src="/files/Park_CV_Mar2024_WEB.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+ <!--<embed src="https://yohanpark23.github.io/files/Park_CV_Mar2024_WEB.pdf" type="application/pdf" width="1200px" height="700px" /> -->
