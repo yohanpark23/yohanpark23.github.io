@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P9PVPE3K5H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P9PVPE3K5H');
+</script>
+
 Welcome! I am a Research Fellow in the Department of Political Science at Trinity College Dublin. I received my Ph.D. in Political Science at Texas A&M University.
 
 My research focuses on the study of conflict processes and political economy, with a particular interest in the use of machine learning and statistical methods to analyze these topics.
