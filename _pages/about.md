@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P9PVPE3K5H"></script>
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-P9PVPE3K5H"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'G-P9PVPE3K5H');
-</script>
+</script> -->
 
 Welcome! I am a Research Fellow in the Department of Political Science at Trinity College Dublin. I received my Ph.D. in Political Science at Texas A&M University.
 
